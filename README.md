@@ -1,0 +1,1 @@
+# This is a simple Python implementation of the A* algorithm, along with visual representation of the shortest path problems encountered. It is part of one assignment in the course Introduction to Artificial Intelligence at NTNU.
