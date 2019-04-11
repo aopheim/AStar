@@ -1,1 +1,3 @@
-# This is a simple Python implementation of the A* algorithm, along with visual representation of the shortest path problems encountered. It is part of one assignment in the course Introduction to Artificial Intelligence at NTNU.
+## This is a simple Python implementation of the A* algorithm, along with visual representation of the shortest path problems encountered. It is part of one assignment in the course Introduction to Artificial Intelligence at NTNU.
+
+The following report, TDT4136_A3.pdf, contains code and generated visualizations of the problems solved. The report is best viewed in Acrobat Reader, as the visualizations tend to be blurred using the built-in PDF reader at GitHub.
